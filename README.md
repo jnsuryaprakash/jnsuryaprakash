@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jnsuryaprakash
-- 👀 I’m interested in Cloud Native World
-- 🌱 I’m currently learning K8s
-- 💞️ I’m looking to collaborate on CNCF and K8s projects
+- 👀 I’m interested in Cloud Native and AI World
+- 🌱 I’m currently learning K8s CICD team
+- 💞️ I’m looking to collaborate on CNCF, AI, Agentic and K8s projects
 - 📫 How to reach me jnsuryaprakash@gmail.com
 - A technology, Data, Cloud Engineering and product management leader with close to 20 years of IT experience in Managing Analytics , Cloud engineering products for fortune 100 Companies like Wal-Mart, AETNA Healthcare and BP. Proven track record of delivering value to customers through complex Data management and Leading engineering teams through cloud migrations. 
 
